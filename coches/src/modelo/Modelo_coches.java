@@ -10,8 +10,9 @@ import java.util.Map;
 
 /**
  *
- * @author Luis David
+ * @author Sergi Julia
  */
+//Me has plagiado mi trabajo 
 public class Modelo_coches {
     String nombre;
     String telefono;
